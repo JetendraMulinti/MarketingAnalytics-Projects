@@ -1,3 +1,0 @@
-Project data: https://www.kaggle.com/competitions/instacart-market-basket-analysis/rules
-
-Inspiration 1: https://medium.com/geekculture/kaggle-instacart-market-basket-analysis-8bfbbf5f2efb
